@@ -1,9 +1,18 @@
-[
-	{
-		"firstName": "angelica",
-		"lastname": "de la cruz",
-		"age": "22",
-		"email": "angelica@gmail.com",
-		"password": "13fa$_wf_"
-	}
-]
+{
+	"login": [
+		{
+			"firstName": "angelica",
+			"lastname": "de la cruz",
+			"age": "22",
+			"email": "angelica@gmail.com",
+			"password": "13fa$_wf_"
+		},
+		{
+			"firstName": "alexys",
+			"lastname": "lozada",
+			"age": "40",
+			"email": "alexys@ed.team",
+			"password": "#d_$df(37"
+		}
+	]
+}
