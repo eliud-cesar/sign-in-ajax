@@ -3,14 +3,14 @@
 		{
 			"firstName": "angelica",
 			"lastname": "de la cruz",
-			"age": "22",
+			"telephone": "+52 741 123 2345",
 			"email": "angelica@gmail.com",
 			"password": "13fa$_wf_"
 		},
 		{
 			"firstName": "alexys",
 			"lastname": "lozada",
-			"age": "40",
+			"telephone": "+52 744 833 9445",
 			"email": "alexys@ed.team",
 			"password": "#d_$df(37"
 		}
