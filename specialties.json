@@ -1,0 +1,38 @@
+[
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/specialities/medium/2e0fb3c1-8736-412e-98a4-622fc97057e6.png",
+		"title": "Desarrollador backend con Go",
+		"description": "Go es uno de los mejores lenguajes de programación para aprender debido a su velocidad, simplicidad, dinamismo y creciente popularidad en este 2021. Hemos preparado esta especialidad para enseñarte desde lo básico hasta convertirte en un desarrollador backend en Go. ",
+		"linkSpecialties": "https://ed.team/especialidades/go"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/specialities/medium/99cd73fe-69b0-4cff-94d1-2ff645336cd6.jpg",
+		"title": "Dssarrollo Web con Javascript",
+		"description": "JavaScript es el lenguaje de programación más importante y con mayor demanda laboral de toda la web. Con esta especialización aprenderás JavaScript desde cero hasta construir tu primera Single Page Aplication, la forma moderna de crear aplicaciones.",
+		"linkSpecialties": "https://ed.team/especialidades/javascript"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/specialities/medium/fc9f9a46-c91b-42ac-8801-006880018835.jpg",
+		"title": "Frontend desde cero",
+		"description": "El desarrollo web frontend es la carrera con mayor demanda en la web. Pero a su vez es el área que se mueve con más rapidez y evoluciona muy rápido. Por eso hemos preparado esta especialidad, que es la única en español que te da la ruta correcta para convertirte en un frontend desde cero.",
+		"linkSpecialties": "https://ed.team/especialidades/frontend"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/specialities/medium/3e6a0de6-602b-439c-a90b-346f13c6760f.png",
+		"title": "Desarrollo frontend con React.js",
+		"description": "En esta especialidad aprenderás lo necesario para entender desde las bases de React, pasando por las integraciones con otras librerías y extensiones hasta poder construir tu primera aplicación real tal y como fue construida la app de EDteam.",
+		"linkSpecialties": "https://ed.team/especialidades/react"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/specialities/medium/0f786d85-3680-437e-a51e-854747533663.png",
+		"title": "Diseñador web con CSS",
+		"description": "El diseño web es una de las áreas con mayor crecimiento en los últimos años. Al desarrollador frontend (JavaScript, React, Angular, Vue, etc) ya no se le pide conocimientos de diseño, cuyo rol ha sido ocupado por los maquetadores que trabajan mano a mano con el equipo de UX/UI para implementar la imagen de marca y la experiencia de usuario. Esta es la única ruta de aprendizaje en español que te convertirá en un profesional del diseño web.",
+		"linkSpecialties": "https://ed.team/especialidades/css"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/specialities/medium/1a061aa9-5e81-45da-9947-a57ea76ee623.png",
+		"title": "Introduccion al desarrollo web",
+		"description": "Esta especialidad te lleva desde cero a dominar las tres tecnologías estándar de la web: HTML, CSS y JavaScript, actualizadas a 2020. Si quieres empezar en el desarrollo web y no tienes conocimientos previos o estás cansado de tomar cursos que te dejan más confundido que al inicio, has llegado al lugar correcto.",
+		"linkSpecialties": "https://ed.team/especialidades/web"
+	}
+]

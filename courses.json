@@ -1,0 +1,38 @@
+[
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/medium/7204fcde-37aa-49a2-a619-63459f834ada.png",
+		"title": "React desde cero (version 2021)",
+		"description": "Crea interfaces de usuario reutilizables y basadas en componentes con la librería para el desarrollo frontend más usada en el mundo.",
+		"linkCourse": "https://ed.team/cursos/reactjs"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/big/036ad25e-7ad8-4668-9ab6-36b7eaa5a2db.png",
+		"title": "Equipos super productivos con Notion",
+		"description": "Aprende a organizar el conocimiento de tu equipo; a planificar, documentar y obtener excelentes resultados en tu organización con el mejor curso de Notion en español.",
+		"linkCourse": "https://ed.team/cursos/notion"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/big/c0aff6b9-9197-4c28-a20f-7934f916da99.png",
+		"title": "Sass desde cero",
+		"description": "Convierte tu estilos CSS en un lenguaje de programación con Sass.",
+		"linkCourse": "https://ed.team/cursos/sass"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/big/cf0aecf3-0ddb-43b5-8d44-a7a3b9c54fed.png",
+		"title": "Figma desde cero",
+		"description": "Aprende la principal herramienta de diseño y prototipado colaborativo y en tiempo real del mercado.",
+		"linkCourse": "https://ed.team/cursos/figma"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/big/4b7c3116-f262-4595-b0c6-af29c480057f.png",
+		"title": "Bases de datos SQL desde cero",
+		"description": "Aprende el lenguaje SQL para, diseñar, crear y administrar la información de cualquier motor de base de datos relacional.",
+		"linkCourse": "https://ed.team/cursos/sql"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/big/a2d8f5c6-3cc5-4ffd-bea7-5b8b8b174db6.png",
+		"title": "Diseño UI",
+		"description": "Aprende las técnicas y buenas prácticas para crear diseños de interfaces hermosos, funcionales e impactantes.",
+		"linkCourse": "https://ed.team/cursos/ui-design"
+	}
+]

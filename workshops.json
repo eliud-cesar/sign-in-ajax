@@ -1,0 +1,38 @@
+[
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/medium/83abeac1-e2dc-4e4c-a711-8ae7c20e37ee.jpg",
+		"title": "Next.js",
+		"description": "Reutiliza tus conocimientos en React.js en proyectos que se renderizan del lado del Servidor.",
+		"linkWorkshop": "https://ed.team/cursos/next-js"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/medium/aba6cde6-3f99-416d-8e5a-6e01380d6feb.jpg",
+		"title": "Tu primera app con C#",
+		"description": "En este taller aplicarás la teoría de los cursos de C# desde cero y POO en una aplicación de consola.",
+		"linkWorkshop": "https://ed.team/cursos/csharp-coworking"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/medium/e00495a5-a7af-41c8-92ec-63702b540b03.jpg",
+		"title": "Mi primera pagina web",
+		"description": "Construye tu primer sitio web desde la primera línea de código hasta subirla a un servidor con tu propio dominio.",
+		"linkWorkshop": "https://ed.team/cursos/pagina-web"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/medium/64450f07-2bf8-45ea-874d-9aaa9a6aaff2.png",
+		"title": "Diseña una app de delivery con Figma",
+		"description": "Diseñaremos una app al estilo UberEats usando las últimas features y las buenas prácticas de Figma.",
+		"linkWorkshop": "https://ed.team/cursos/delivery-figma"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/medium/794217d7-a896-4a2e-ac48-1445a9769227.png",
+		"title": "Clon de Twitter con MERN",
+		"description": "Crea un clon funcional de Twitter con MongoDB, Express, React y Node y súbelo a la nube.",
+		"linkWorkshop": "https://ed.team/cursos/mern"
+	},
+	{
+		"image": "https://edteam-media.s3.amazonaws.com/courses/medium/47246f67-7649-4e7f-b3fa-b34ca623630b.png",
+		"title": "Flujo de trabajo en equipo con Git",
+		"description": "Aprende cómo los equipos de desarrollo de software usan Git.",
+		"linkWorkshop": "https://ed.team/cursos/git-workflow"
+	}
+]
